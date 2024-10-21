@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Health ETL Process</title>
+    <!-- <title>Health ETL Process</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -34,7 +34,7 @@
             border-radius: 5px;
             overflow-x: auto;
         }
-    </style>
+    </style> -->
 </head>
 <body>
 
@@ -115,7 +115,7 @@ project-directory/
 <p>If you would like to contribute to this project, feel free to submit a pull request or create an issue for discussion.</p>
 
 <h2>License</h2>
-<p>This project is licensed under the MIT License.</p>
+<p>This project is developed under Incubytein as an assessment project .</p>
 
 </body>
 </html>
